@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pr9</string>
+    <string name="acrion_settings">Settings</string>
+
+    <string name="armeniaAM">AM</string>
+    <string name="bulgariaBG">BG</string>
+    <string name="koreasouthKS">KS</string>
+    <string name="coloumbiaCO">CO</string>
+
+    <string name="armenia">Armenia\nArmenia Dram\nErevan</string>
+    <string name="bulgaria">Bulgaria\nBulgaria Yen\nSofia</string>
+    <string name="koreasouth">Korea South\nVona\nSeul</string>
+    <string name="coloumbia">Coloumbia\nPeso\nBogota</string>
+
+    <string name="flag">flag</string>
+</resources>
